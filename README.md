@@ -7,7 +7,7 @@
 * PC with Arduino IDE (1.6.4 or newer) (Windows, Linux, MAC)
 * Internet connection
 
-### CONTROLLINO boards hardware definition
+### Arduino A10 PLC hardware definition
 
 * Navigate to Sketch–>Include Library–>Manages Libraries ...
 * In the Library Manager type SPECTRA into the filter text box and search for **SPECTRA** Library
